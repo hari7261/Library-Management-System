@@ -87,7 +87,7 @@ To upload this program to GitHub, you can follow these steps:
    - Use the remote URL you copied in step 4 to set the remote origin.
 
    ```shell
-   git remote add origin <repository URL>
+   git remote add origin < https://hari7261.github.io/Library-Management-System/>
    ```
 
 7. **Push Your Code to GitHub:**
